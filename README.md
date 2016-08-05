@@ -1,5 +1,5 @@
 # braids
-Basic tests for braids of partitions
+Basic tests and reproduction of results for braids of partitions
 
 - Optimal cut evalaution over hierarchy vs braids (ISMM 2015 Paper Results) 
 - http://perso.esiee.fr/~kiranr/Braids.html
