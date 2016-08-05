@@ -1,0 +1,5 @@
+functions needed:
+- [labels(1x2)]; InitializePartitions(); %ordered partitions or disordered - shud give same result
+- [energies(1x2)] = getEnery(pi1, pi2)
+- [graph] = bipartiteIntersectionGraph(pi1, pi2)
+- [pi*, energies] = getEnergeticInf(pi1, pi2) %implement as MWIS ? or just label bipartite graph
